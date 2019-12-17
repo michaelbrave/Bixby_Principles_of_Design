@@ -1,0 +1,16 @@
+capsule-info {
+  display-name (Principles of Design)
+  developer-name (brave)
+  icon-asset (images/1.jpg)
+  description ("The Principles of Design with quotes and images by Dieter Rams")
+  search-keywords {
+    keyword (Design)
+    keyword (Principles)
+    keyword (Dieter Rams)
+    keyword (Design Principles)
+  }
+  dispatch-name (Principles of Design)
+  dispatch-aliases {
+    alias (principle of design)
+  }
+}
